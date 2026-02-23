@@ -14,14 +14,14 @@ Documenting my full learning journey publicly on GitHub.
 
 | Phase | Topic | Status | Repository |
 |-------|-------|--------|------------|
-| 01 | Python Fundamentals | 🔄 | [View](https://github.com/username/ai-learning-journey/tree/main/01-python-fundamentals) |
-| 02 | Math for AI | 🔄 | [View](https://github.com/username/ai-learning-journey/tree/main/02-math-for-ai) |
-| 03 | Machine Learning | ⬜ | [View](https://github.com/username/ai-learning-journey/tree/main/03-machine-learning) |
-| 04 | Deep Learning | ⬜ | [View](https://github.com/username/ai-learning-journey/tree/main/04-deep-learning) |
-| 05 | NLP Fundamentals | ⬜ | [View](https://github.com/username/ai-learning-journey/tree/main/05-nlp-fundamentals) |
-| 06 | LLM Applications | ⬜ | [View](https://github.com/username/ai-learning-journey/tree/main/06-llm-applications) |
-| 07 | Agentic AI | ⬜ | [View](https://github.com/username/ai-learning-journey/tree/main/07-agentic-ai) |
-| 08 | LLMOps | ⬜ | [View](https://github.com/username/ai-learning-journey/tree/main/08-llmops) |
+| 01 | Python Fundamentals | 🔄 | [View](https://github.com/AbdoSabry2003/ai-learning-journey/tree/main/01-python-fundamentals) |
+| 02 | Math for AI | 🔄 | [View](https://github.com/AbdoSabry2003/ai-learning-journey/tree/main/02-math-for-ai) |
+| 03 | Machine Learning | ⬜ | [View](https://github.com/AbdoSabry2003/ai-learning-journey/tree/main/03-machine-learning) |
+| 04 | Deep Learning | ⬜ | [View](https://github.com/AbdoSabry2003/ai-learning-journey/tree/main/04-deep-learning) |
+| 05 | NLP Fundamentals | ⬜ | [View](https://github.com/AbdoSabry2003/ai-learning-journey/tree/main/05-nlp-fundamentals) |
+| 06 | LLM Applications | ⬜ | [View](https://github.com/AbdoSabry2003/ai-learning-journey/tree/main/06-llm-applications) |
+| 07 | Agentic AI | ⬜ | [View](https://github.com/AbdoSabry2003/ai-learning-journey/tree/main/07-agentic-ai) |
+| 08 | LLMOps | ⬜ | [View](https://github.com/AbdoSabry2003/ai-learning-journey/tree/main/08-llmops) |
 
 **Legend:** ✅ Completed | 🔄 In Progress | ⬜ Upcoming
 
