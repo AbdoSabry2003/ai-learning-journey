@@ -7,6 +7,7 @@
 
 ## 🎓 Resources
 - Course / Book / Documentation
+- https://youtu.be/vRTcE19M-KE
 
 ## 🛠️ Projects
 Projects will be added in the /projects folder.
